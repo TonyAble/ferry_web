@@ -338,3 +338,9 @@ export default {
   }
 }
 </script>
+
+<style>
+.el-table .cell {
+  white-space: pre-wrap;
+}
+</style>
