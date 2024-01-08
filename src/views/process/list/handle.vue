@@ -339,7 +339,9 @@ export default {
 }
 </script>
 
-<style>
+
+// 局部样式
+<style scoped>
 .el-table .cell {
   white-space: pre-wrap;
 }
